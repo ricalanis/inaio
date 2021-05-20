@@ -1,2 +1,4 @@
 *.pl
 *.json
+data/
+source_data/
